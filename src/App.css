@@ -1,0 +1,22 @@
+section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}
+
+.userCard {
+  border: 1px solid lightgrey;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px darkgrey;
+  position: relative;
+  padding: 30px;
+}
+
+.favorite {
+  display: block;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 30px;
+  height: 30px;
+}
