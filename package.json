@@ -2,7 +2,7 @@
   "name": "board-of-fame",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://pinzdesign.github.io/board-of-fame",
+  "homepage": "https://pinzdesign.github.io/board-of-fame/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
