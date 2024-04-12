@@ -6,7 +6,7 @@ function UserList() {
         {
             "username": "John Cena",
             "age": 23,
-            "position": "Front-end Developer",
+            "position": "Frontend Developer",
             "freedays": 3,
             "favorite": true
         },

@@ -5,8 +5,8 @@ import UserList from './components/UserList'
 function App() {
   return (
     <>
-    <h3>Employee List</h3>
-    <section>
+    <h3 className='text-3xl font-bold underline'>Employee List</h3>
+    <section className='flex max-w-m mx-auto'>
       <UserList />
     </section>
     </>
